@@ -89,7 +89,7 @@
                     </div>
                    <p>
                        Click here to veiw company details</p> 
-                   <button id="clickme" type="button" onclick="functionViewCompany()"> Click Me</button>
+                   <button id="clickme" type="button" onclick="functionViewCompany()"> Click Here</button>
                 </div>
                 <div class="job_overview">
                     <div class="job_overview_text">

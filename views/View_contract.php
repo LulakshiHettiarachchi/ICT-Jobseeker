@@ -75,7 +75,7 @@
                    --> 
                    <p>
                     Click here to veiw contract provider details</p> 
-                   <button id="clickme" onclick="contractProviderProfile()"> Click Me</button>
+                   <button id="clickme" onclick="contractProviderProfile()"> Click Here</button>
                 </div>
                 <div class="job_overview">
                     <div class="job_overview_text">

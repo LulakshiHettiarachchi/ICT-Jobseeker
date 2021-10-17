@@ -31,7 +31,8 @@
    flex-direction: column;
    justify-content: space-around;
    padding: 30px;
-   color:rgb(37, 37, 37);
+   /*color:rgb(37, 37, 37);*/
+
    background-color: transparent;
   }
   .post_job_description_left_text{

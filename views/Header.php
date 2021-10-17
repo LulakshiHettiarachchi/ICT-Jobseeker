@@ -26,7 +26,7 @@ html, body {
 .header_div {
   position: fixed;
   width: 100%;
-  height: 140px;
+ 
   top: 0;
   z-index: 10;
   overflow-x:hidden;

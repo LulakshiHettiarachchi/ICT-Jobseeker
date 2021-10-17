@@ -17,6 +17,8 @@ flex-wrap: wrap;
 align-items: center;
 justify-content: space-around;
 padding: 5px;
+font-size: 8px;
+
 }
 .circle{
     background-color:  #1D6989;
